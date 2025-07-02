@@ -194,6 +194,9 @@ section {
 .about-text {
   flex: 1;
 }
+.about-text ul{
+  color: var(--text-secondary);
+}
 
 .about-text p {
   margin-bottom: 20px;

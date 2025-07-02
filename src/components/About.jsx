@@ -9,22 +9,26 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I'm a passionate Full Stack Developer with expertise in the MERN stack.
-              I love creating beautiful, functional, and user-centered digital experiences.
+              I am a passionate MERN Stack Developer. I have built several projects using the MERN stack and completed a MERN Stack internship conducted by BETTER TOMORROW INSTITUTION at Sri Eshwar College of Engineering.
             </p>
             <p>
-              With a background in computer science and several years of experience,
-              I bring both technical knowledge and creative problem-solving skills to every project.
+              Currently, I am pursuing a Modern Full Stack Development internship, which is also being conducted at Sri Eshwar College of Engineering. I am always excited to learn new technologies and expand my skill set.
             </p>
-            <p>
-              When I'm not coding, you can find me exploring new technologies,
-              contributing to open-source projects, or enjoying outdoor activities.
-            </p>
+            <h3>Educational Background:</h3>
+            <ul>
+              <li>Schooling: Swamy Chidbhavananda Matric Higher Secondary School</li>
+              <li>SSLC (2020–2021)</li>
+              <li>HSC First Year (2021–2022): <strong>87%</strong></li>
+              <li>HSC Second Year (2022–2023): <strong>91.8%</strong></li>
+            </ul>
+            <ul>
+              <li>College: Sri Eshwar College of Engineering (2023–2027)</li>
+              <li>Current CGPA: <strong>8.3</strong> (up to 3rd semester)</li>
+            </ul>
           </div>
           <div className="about-image">
-            {/* Replace with your image */}
             <div className="image-placeholder">
-              <img src={mypic} alt="img" />
+              <img src={mypic} alt="My Profile" />
             </div>
           </div>
         </div>

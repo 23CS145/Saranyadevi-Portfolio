@@ -30,8 +30,8 @@ const projects = [
     description: 'A responsive portfolio website to showcase my work and skills.',
     // tags: ['React', 'CSS', 'Vite'],
     image: portfolio,
-    link: '#',
-    github: '#'
+    link: 'https://saranyadevi-portfolio-six.vercel.app/',
+    github: 'https://github.com/23CS145/Saranyadevi-Portfolio'
   }
 ];
 

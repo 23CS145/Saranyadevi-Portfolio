@@ -1,12 +1,12 @@
 import '../assets/styles/global.css';
 
 const skills = [
-  { name: 'Java', level: 90 },
+  { name: 'Java', level: 80 },
   { name: 'C', level: 85 },
-  { name: 'C++', level: 85 },
-  { name: 'Node.js', level: 80 },
+  { name: 'C++', level: 75 },
+  { name: 'Node.js', level: 70 },
   { name: 'Express', level: 75 },
-  { name: 'MongoDB', level: 70 },
+  { name: 'MongoDB', level: 80 },
   { name: 'HTML/CSS', level: 80 },
   { name: 'JavaScript', level: 60 },
   
